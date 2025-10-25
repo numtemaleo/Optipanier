@@ -1,0 +1,9 @@
+{
+  "name": "OptiPanier",
+  "description": "An intelligent shopping assistant to help you save money by optimizing your shopping lists, analyzing receipts, and finding the best deals in real-time using Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
